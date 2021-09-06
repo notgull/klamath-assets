@@ -1,0 +1,24 @@
+Textures/Garage_door_20180630.jpg: https://commons.wikimedia.org/wiki/File:Garage_door_20180630.jpg
+ - Licensed under CC-BY-SA 4.0 International
+ - Used in klamath-house.blend
+Textures/Frieze4.jpg: https://commons.wikimedia.org/wiki/File:Frieze4.jpg
+ - Released into the public domain
+ - Used in klamath-house.blend
+Textures/Fabric055: https://ambientcg.com/view?id=Fabric055
+ - Released under CC 1.0
+ - Used in klamath-house.blend
+Textures/Metal014: https://ambientcg.com/view?id=Metal014
+ - Released under CC 1.0
+ - Used in klamath-house.blend
+Textures/PaintedPlaster017: https://ambientcg.com/view?id=PaintedPlaster017
+ - Released under CC 1.0
+ - Used in klamath-house.blend
+Textures/RoofingTiles006: https://ambientcg.com/view?id=RoofingTiles006
+ - Released under CC 1.0
+ - Used in klamath-house.blend
+Textures/Tiles049: https://ambientcg.com/view?id=Tiles049
+ - Released under CC 1.0
+ - Used in klamath-house.blend
+Textures/Wood060: https://ambientcg.com/view?id=Wood060
+ - Released under CC 1.0
+ - Used in klamath-house.blend
