@@ -22,3 +22,12 @@ Textures/Tiles049: https://ambientcg.com/view?id=Tiles049
 Textures/Wood060: https://ambientcg.com/view?id=Wood060
  - Released under CC 1.0
  - Used in klamath-house.blend
+Textures/Glass004: https://ambientcg.com/view?id=Grass004
+ - Released under CC 1.0
+ - Used in klamath-neighborhood.blend
+Textures/Concrete036: https://ambientcg.com/view?id=Concrete036
+ - Released under CC 1.0
+ - Used in klamath-neighborhood.blend
+Textures/Asphalt019: https://ambientcg.com/view?id=Asphalt019
+ - Released under CC 1.0
+ - Used in klamath-neighborhood.blend
