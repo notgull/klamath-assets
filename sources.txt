@@ -6,10 +6,10 @@ Textures/Frieze4.jpg: https://commons.wikimedia.org/wiki/File:Frieze4.jpg
  - Used in klamath-house.blend
 Textures/Fabric055: https://ambientcg.com/view?id=Fabric055
  - Released under CC 1.0
- - Used in klamath-house.blend
+ - Used in klamath-house.blend, chester-car.blend and klamath-car.blend
 Textures/Metal014: https://ambientcg.com/view?id=Metal014
  - Released under CC 1.0
- - Used in klamath-house.blend
+ - Used in klamath-house.blend, chester-car.blend and klamath-car.blend
 Textures/PaintedPlaster017: https://ambientcg.com/view?id=PaintedPlaster017
  - Released under CC 1.0
  - Used in klamath-house.blend
@@ -29,5 +29,11 @@ Textures/Concrete036: https://ambientcg.com/view?id=Concrete036
  - Released under CC 1.0
  - Used in klamath-neighborhood.blend
 Textures/Asphalt019: https://ambientcg.com/view?id=Asphalt019
+ - Released under CC 1.0
+ - Used in klamath-neighborhood.blend
+Textures/Rock033: https://ambientcg.com/view?id=Rock033
+ - Released under CC 1.0
+ - Used in klamath-neighborhood.blend
+Textures/Ground048: https://ambientcg.com/view?id=Ground048
  - Released under CC 1.0
  - Used in klamath-neighborhood.blend
