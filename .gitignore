@@ -3,3 +3,6 @@
 *.out
 *.gz
 *.toc
+*.blend1
+*.usda
+*.usdc
