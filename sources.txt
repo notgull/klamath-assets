@@ -1,3 +1,5 @@
+-- Textures --
+
 Textures/Garage_door_20180630.jpg: https://commons.wikimedia.org/wiki/File:Garage_door_20180630.jpg
  - Licensed under CC-BY-SA 4.0 International
  - Used in klamath-house.blend
@@ -5,35 +7,54 @@ Textures/Frieze4.jpg: https://commons.wikimedia.org/wiki/File:Frieze4.jpg
  - Released into the public domain
  - Used in klamath-house.blend
 Textures/Fabric055: https://ambientcg.com/view?id=Fabric055
- - Released under CC 1.0
+ - Released under CC-0 1.0
  - Used in klamath-house.blend, chester-car.blend and klamath-car.blend
 Textures/Metal014: https://ambientcg.com/view?id=Metal014
- - Released under CC 1.0
+ - Released under CC-0 1.0
  - Used in klamath-house.blend, chester-car.blend and klamath-car.blend
 Textures/PaintedPlaster017: https://ambientcg.com/view?id=PaintedPlaster017
- - Released under CC 1.0
+ - Released under CC-0 1.0
  - Used in klamath-house.blend
 Textures/RoofingTiles006: https://ambientcg.com/view?id=RoofingTiles006
- - Released under CC 1.0
+ - Released under CC-0 1.0
  - Used in klamath-house.blend
 Textures/Tiles049: https://ambientcg.com/view?id=Tiles049
- - Released under CC 1.0
+ - Released under CC-0 1.0
  - Used in klamath-house.blend
 Textures/Wood060: https://ambientcg.com/view?id=Wood060
- - Released under CC 1.0
+ - Released under CC-0 1.0
  - Used in klamath-house.blend
 Textures/Glass004: https://ambientcg.com/view?id=Grass004
- - Released under CC 1.0
+ - Released under CC-0 1.0
  - Used in klamath-neighborhood.blend
 Textures/Concrete036: https://ambientcg.com/view?id=Concrete036
- - Released under CC 1.0
+ - Released under CC-0 1.0
  - Used in klamath-neighborhood.blend
 Textures/Asphalt019: https://ambientcg.com/view?id=Asphalt019
- - Released under CC 1.0
+ - Released under CC-0 1.0
  - Used in klamath-neighborhood.blend
 Textures/Rock033: https://ambientcg.com/view?id=Rock033
- - Released under CC 1.0
+ - Released under CC-0 1.0
  - Used in klamath-neighborhood.blend
 Textures/Ground048: https://ambientcg.com/view?id=Ground048
- - Released under CC 1.0
+ - Released under CC-0 1.0
  - Used in klamath-neighborhood.blend
+
+-- Music --
+
+Music/OpeningOnionCapers.mp3
+ - Released under CC-BY 4.0
+ - Used in Movies/Dreamray 
+ - Credit using:
+"Onion Capers" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+-- Sound Effects --
+
+SoundEffects/car-breaking-skid-01.wav: https://freesound.org/people/Medartimus/sounds/217542/
+ - Released under CC-BY 3.0
+ - Used in Movies/Dreamray
+SoundEffects/car-engine-exterior.wav: https://freesound.org/people/InspectorJ/sounds/345557/
+ - Released under CC-BY 3.0
+ - Used in Movies/Dreamray
