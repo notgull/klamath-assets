@@ -58,3 +58,12 @@ SoundEffects/car-breaking-skid-01.wav: https://freesound.org/people/Medartimus/s
 SoundEffects/car-engine-exterior.wav: https://freesound.org/people/InspectorJ/sounds/345557/
  - Released under CC-BY 3.0
  - Used in Movies/Dreamray
+SoundEffects/tearing-paper.wav: https://freesound.org/people/keweldog/sounds/181771/
+ - Released under CC 0 1.0
+ - Used in Movies/Dreamray
+SoundEffects/knock-on-wood.wav: https://freesound.org/people/JarredGibb/sounds/219486/
+ - Released under CC 0 1.0
+ - Used in Movies/Dreamray
+SoundEffects/door-opening.wav: https://freesound.org/people/InspectorJ/sounds/431117/
+ - Released under CC-BY 3.0
+ - Used in Movies/Dreamray
