@@ -67,3 +67,6 @@ SoundEffects/knock-on-wood.wav: https://freesound.org/people/JarredGibb/sounds/2
 SoundEffects/door-opening.wav: https://freesound.org/people/InspectorJ/sounds/431117/
  - Released under CC-BY 3.0
  - Used in Movies/Dreamray
+SourceEffects/laaser.wav: https://freesound.org/people/MikeE63/sounds/466867/
+ - Released under CC 0 1.0
+ - Used in Movies/Dreamray
