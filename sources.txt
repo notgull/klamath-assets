@@ -8,10 +8,10 @@ Textures/Frieze4.jpg: https://commons.wikimedia.org/wiki/File:Frieze4.jpg
  - Used in klamath-house.blend
 Textures/Fabric055: https://ambientcg.com/view?id=Fabric055
  - Released under CC-0 1.0
- - Used in klamath-house.blend, chester-car.blend and klamath-car.blend
+ - Used in klamath-house.blend, jims-front.blend, chester-car.blend and klamath-car.blend
 Textures/Metal014: https://ambientcg.com/view?id=Metal014
  - Released under CC-0 1.0
- - Used in klamath-house.blend, chester-car.blend and klamath-car.blend
+ - Used in klamath-house.blend, jims-front.blend, chester-car.blend and klamath-car.blend
 Textures/PaintedPlaster017: https://ambientcg.com/view?id=PaintedPlaster017
  - Released under CC-0 1.0
  - Used in klamath-house.blend
@@ -23,22 +23,28 @@ Textures/Tiles049: https://ambientcg.com/view?id=Tiles049
  - Used in klamath-house.blend
 Textures/Wood060: https://ambientcg.com/view?id=Wood060
  - Released under CC-0 1.0
- - Used in klamath-house.blend
+ - Used in klamath-house.blend and jims-front.blend
 Textures/Glass004: https://ambientcg.com/view?id=Grass004
  - Released under CC-0 1.0
  - Used in klamath-neighborhood.blend
 Textures/Concrete036: https://ambientcg.com/view?id=Concrete036
  - Released under CC-0 1.0
- - Used in klamath-neighborhood.blend
+ - Used in klamath-neighborhood.blend and jims-front.blend
 Textures/Asphalt019: https://ambientcg.com/view?id=Asphalt019
  - Released under CC-0 1.0
- - Used in klamath-neighborhood.blend
+ - Used in klamath-neighborhood.blend and jims-front.blend
 Textures/Rock033: https://ambientcg.com/view?id=Rock033
  - Released under CC-0 1.0
  - Used in klamath-neighborhood.blend
 Textures/Ground048: https://ambientcg.com/view?id=Ground048
  - Released under CC-0 1.0
  - Used in klamath-neighborhood.blend
+Textures/building1.png: https://commons.wikimedia.org/wiki/File:Lille_rang_des_pauvres_claires_rue_mauroy.jpg
+ - Released under CC-BY-SA 4.0
+ - Used in jims-front.blend
+Textures/painting1.png: https://commons.wikimedia.org/wiki/File:Drip_painting_Light_my_fire.jpg
+ - Released under CC-BY-SA 4.0
+ - Used in jims-inside.blend
 
 -- Music --
 
