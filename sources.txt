@@ -56,6 +56,22 @@ Music/OpeningOnionCapers.mp3
 Licensed under Creative Commons: By Attribution 4.0 License
 http://creativecommons.org/licenses/by/4.0/
 
+Music/LateNightRadio.mp3
+ - Released under CC-BY 4.0
+ - Used in Movies/Catsup
+ - Credit using:
+"Late Night Radio" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+Music/Hyperfun.mp3
+ - Released under CC-BY 4.0
+ - Used in Movies/Catsup
+ - Credit using:
+"Hyperfun" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
 -- Sound Effects --
 
 SoundEffects/car-breaking-skid-01.wav: https://freesound.org/people/Medartimus/sounds/217542/
@@ -79,3 +95,8 @@ SoundEffects/laser.wav: https://freesound.org/people/MikeE63/sounds/466867/
 SoundEffects/gunshot.wav: https://freesound.org/people/Xenonn/sounds/128297/
  - Released under CC 0 1.0
  - Used in Movies/Dreamray
+SoundEffects/ketchup.wav: https://freesound.org/people/DaveHammond/sounds/49786/
+ - Released under CC-BY 3.0
+ - Used in Movies/Catsup
+
+Soundfont used is Live HQ Natural SoundFont GM: https://musical-artifacts.com/artifacts/1176 (CC-BY 4.0)
