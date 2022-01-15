@@ -45,6 +45,15 @@ Textures/building1.png: https://commons.wikimedia.org/wiki/File:Lille_rang_des_p
 Textures/painting1.png: https://commons.wikimedia.org/wiki/File:Drip_painting_Light_my_fire.jpg
  - Released under CC-BY-SA 4.0
  - Used in jims-inside.blend
+Textures/Leather026: https://ambientcg.com/view?id=Leather026
+ - Released under CC 0
+ - Used in klamath-house.blend
+Textures/flower.png: https://commons.wikimedia.org/wiki/File:SunflowerIMG_2257_WP2.png
+ - Released under CC BY SA 4.0
+ - Used in call-center.blend
+Textures/keyboard.png: https://commons.wikimedia.org/wiki/File:Turkish_Q_computer_keyboard.jpg
+ - Released under CC BY SA 4.0
+ - Used in call-center.blend
 
 -- Music --
 
@@ -69,6 +78,14 @@ Music/Hyperfun.mp3
  - Used in Movies/Catsup
  - Credit using:
 "Hyperfun" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+Music/Aerosol.mp3
+ - Released under CC-BY 3.0
+ - Used in Movies/Insurance
+ - Credit using:
+"Aerosol of my Love" Kevin MacLeod (incompetech.com)
 Licensed under Creative Commons: By Attribution 4.0 License
 http://creativecommons.org/licenses/by/4.0/
 
@@ -98,5 +115,11 @@ SoundEffects/gunshot.wav: https://freesound.org/people/Xenonn/sounds/128297/
 SoundEffects/ketchup.wav: https://freesound.org/people/DaveHammond/sounds/49786/
  - Released under CC-BY 3.0
  - Used in Movies/Catsup
+SoundEffects/beep.wav: https://freesound.org/people/NoiseCollector/sounds/3977/
+ - Released under CC-BY 3.0
+ - Used in Movies/Insurance
+SoundEffects/ring.wav: https://freesound.org/people/jourblue/sounds/344365/
+ - Released under CC 0
+ - Used in Movies/Insurance
 
 Soundfont used is Live HQ Natural SoundFont GM: https://musical-artifacts.com/artifacts/1176 (CC-BY 4.0)
